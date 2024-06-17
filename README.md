@@ -1,4 +1,4 @@
-# Document QA with LayoutLM
+# Document QA with LayoutLM impira
 
 This Streamlit application allows users to perform question answering on documents and images using the LayoutLM model. Users can upload a document or image file and ask specific questions related to the content. Additionally, prompt suggestions are available to help users formulate questions quickly.
 
