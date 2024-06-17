@@ -64,7 +64,25 @@ Supported file formats for uploading:
 - **Unsupported File Formats:** If you encounter an error stating "Unsupported file format," ensure you are uploading a supported file type.
 - **Model Errors:** If the model encounters issues while processing the document or image, an error message will be displayed. Check the error details for troubleshooting steps.
 
+Certainly! Adding licensing information and collaboration details to your README file is important for clarity on usage rights and potential contributions. Here’s an updated version of your README.md file that includes the MIT license and collaboration information:
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository and create your branch (`git checkout -b feature/your-feature`).
+2. Make your changes and commit them (`git commit -am 'Add some feature'`).
+3. Push to the branch (`git push origin feature/your-feature`).
+4. Create a new Pull Request.
+
+Please ensure your pull request adheres to the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) code of conduct.
+
 ## Credits
 
 - **LayoutLM Model:** Powered by Hugging Face Transformers library.
 - **Streamlit:** Used for creating interactive and user-friendly web applications.
+
